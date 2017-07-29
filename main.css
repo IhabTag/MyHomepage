@@ -1,0 +1,19 @@
+.main {
+	color: White;
+	font-size: 24px;
+	font-weight: bold;
+	text-align: center;
+	background-color: Grey;
+	}
+
+.paragraph {
+	color: Green;
+	font-weight: bold;
+	text-align: center;
+	}
+
+.footer {
+	text-align: center;
+	position: static;
+	top: 95%;
+}
